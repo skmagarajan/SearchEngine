@@ -1,7 +1,4 @@
-### 
-CS582_IR
-##### Name: Saravana Krishnan Magarajan
-### Final Project - A Web Search Engine
+A Web Search Engine
 ----
 ### Required Python Modules
 
@@ -78,6 +75,7 @@ This file will create tkinter application for user to enter query and display to
 
 ### Instructions to run the program
 * Please dont run crawler.py and main.py it will run for long time to compute
+
 * Please check you have 
 
   * doc_len.p
@@ -89,6 +87,8 @@ This file will create tkinter application for user to enter query and display to
   * pr_scores.p
 
   * weight.p
+  
+* If not, then run Crawler and main python files and change path for html path and URL path in both file
 
 * For search engine application, run *UserInterface.py* it takes some time to load and application will be displayed
 
@@ -98,7 +98,7 @@ This file will create tkinter application for user to enter query and display to
 
   * Press prev button to get back links.
 
-* If running main.py or crawler.py then change path for html path and URL path in both file
+
 
  
 
